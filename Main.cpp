@@ -21,7 +21,7 @@ int WINAPI WinMain(
 	const wchar_t TITLE[] = L"Pong Game";
 
 	// ゲームオーバーの文字列
-	const wchar_t GAMEOVER[] = L"Game Over";
+	const wchar_t GAMEOVER[] = L"---Game Over---";
 
 	// 画面のサイズ
 	const int SCREEN_WIDTH = 1280;
